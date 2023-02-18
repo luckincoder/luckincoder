@@ -18,8 +18,6 @@
 
 <b>Wechat:chpeek</b>
 
-<b>Mobile: +86 188 1030 1093</b>
-
 [<img align="left" alt="SukhrobSabirddinov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/sukhrob-sabirdinov
