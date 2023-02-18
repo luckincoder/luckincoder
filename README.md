@@ -3,14 +3,14 @@
 <h2>👨‍💻 Dart/Flutter Development Projects:</h2>
 
 - <b>Flutter BotGPT</b>
-  - [Built a ChatBOT Movile App Using Openai API](https://github.com/luckincoder/)
+  - [Built a ChatBOT Movile App Using Openai API](https://github.com/luckincoder/botGPT)
 - <b>Hanzi Trainer App</b>
-  - [Chinese Character - Memory Testing Flashcard Game](https://github.com/luckincoder/)
+  - [Chinese Character - Memory Testing Flashcard Game](https://github.com/luckincoder/Hanzi-Trainer-App)
 - <b>Flutter DouYin</b>
-  - [Fullstack TikTok clone with Firebase & GetX](https://github.com/luckincoder/)
+  - [Fullstack TikTok clone with Firebase & GetX](https://github.com/luckincoder/DouYin-Clone)
 - <b>C Language</b>
-  - [Applied various image filters to bmp inputs](https://github.com/luckincoder/EncrypterPOC)
-  - [A program that can recover JPEG images from a forensic file](https://github.com/luckincoder/DecrypterPOC)
+  - [Applied various image filters to bmp inputs](https://github.com/luckincoder/Simple-Image-Filter)
+  - [A program that can recover JPEG images](https://github.com/luckincoder/Image-Recover)
 - <b>Python</b>
   - Actively pursuing advanced knowledge in machine learning and deep learning by acquiring proficiency in AI techniques, with a focus on TensorFlow.
 
